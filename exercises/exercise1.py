@@ -17,3 +17,10 @@ r = 5
 pole_ok = pi * r* r
 
 print("Pole okręgu: " + str(pole_ok))
+
+przek_e = 6
+przek_f = 7
+
+pole_romb = (przek_e * przek_f)/2
+
+print("Pole rombu: " + str(pole_romb))
